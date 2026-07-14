@@ -1,2 +1,2 @@
-# Sergei
-1# Lab
+Sergei Bazov
+It-1050
